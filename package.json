@@ -1,0 +1,9 @@
+{
+  "name": "rn-sprite",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "gl-react": "^2.2.8",
+    "gl-react-native": "^2.36.0"
+  }
+}
